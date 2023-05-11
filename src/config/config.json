@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "web-demo",
+    "title": "web-page",
     "base_url": "https://mowwy.github.io",
-    "base_path": "/web-demo",
+    "base_path": "/web-page",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
