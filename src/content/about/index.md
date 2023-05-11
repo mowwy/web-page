@@ -66,21 +66,21 @@ members:
   member_list:
     - name: Eleanor Pena
       field: Co-founder & COO
-      image: "/web-demo/images/users/user-1.png"
+      image: "/web-page/images/users/user-1.png"
     - name: Bukiakta Bansalo
       field: Product Manager
-      image: "/web-demo/images/users/user-2.png"
+      image: "/web-page/images/users/user-2.png"
     - name: Ortrin Okaster
       field: Software Engineer
-      image: "/web-demo/images/users/user-3.png"
+      image: "/web-page/images/users/user-3.png"
     - name: Eleanor Pena
       field: Co-founder & COO
-      image: "/web-demo/images/users/user-1.png"
+      image: "/web-page/images/users/user-1.png"
     - name: Bukiakta Bansalo
       field: Product Manager
-      image: "/web-demo/images/users/user-2.png"
+      image: "/web-page/images/users/user-2.png"
     - name: Ortrin Okaster
       field: Software Engineer
-      image: "/web-demo/images/users/user-3.png"
+      image: "/web-page/images/users/user-3.png"
 ---
 Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
