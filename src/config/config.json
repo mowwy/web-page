@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "web-demo",
+    "base_url": "https://mowwy.github.io",
+    "base_path": "/web-demo",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "147",
+    "logo_height": "31",
+    "logo_text": "Pinwheel"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 100,
+    "blog_folder": "blog"
+  },
+
+  "call_to_action": {
+    "title": "Learn something new everyday with Monash University",
+    "description": "",
+    "button": {
+      "label": "GO!",
+      "link": "https://www.monash.edu/"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "params": {
+    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "email": "clii0073@student.monash.edu",
+    "location": "",
+    "phone": "",
+    "contact_form_action": "#",
+    "copyright": ""
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "pinwheel astro"
+  }
+}

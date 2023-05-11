@@ -1,0 +1,43 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "#"
+    },
+    {
+      "name": "Summary",
+      "url": "#feature"
+    },
+    {
+      "name": "Link with Campaign",
+      "url": "#Campagin"
+    },
+    {
+      "name": "Performance Analysis",
+      "url": "#Analysis"
+    },
+    {
+      "name": "Contact",
+      "url": "#contact"
+    }
+  ],
+
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Changelog",
+      "url": "/changelog"
+    }
+  ]
+}
