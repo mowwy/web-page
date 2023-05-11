@@ -40,25 +40,25 @@ service:
     tab_list:
         - title: Marketing campaign design should follow SMART objectives
           icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/web-demo/images/sells-by-country.png"
+          image: "/web-page/images/sells-by-country.png"
         - title: Have a plan and a reasonable budget
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/web-demo/images/collaboration.png"
+          image: "/web-page/images/collaboration.png"
         - title: Real-time monitoring of the exposure process and review of customer feedback to avoid possible public relations crises
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/web-demo/images/monitor.png"
+          image: "/web-page/images/monitor.png"
 
   our_service:
     - title: Campaign Performance Analysis
       desctiption: In fact, the final sales volume of the product is the best testing tool.
-      image: "/web-demo/images/analysis.png"
+      image: "/web-page/images/analysis.png"
       list:
         - Revenue get from pay-per-click advertising
         - Google analytics for tracking
 #    - title: Accountability that works for you
 #      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
 #      video:
-#        thumbnail: "/web-demo/images/intro-thumbnail.png"
+#        thumbnail: "/web-page/images/intro-thumbnail.png"
 #        video_id: "g3-VxLQO7do"
 #      button:
 #        label: Know About Us
@@ -71,7 +71,7 @@ testimonial:
   description: 
   testimonial_list:
     - author: Chutong Li
-      avatar: "/web-demo/images/users/user-0.png"
+      avatar: "/web-page/images/users/user-0.png"
       organization: Monash university
       rating: five
       content: a graduating student .
